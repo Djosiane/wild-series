@@ -1,0 +1,14 @@
+body {
+    background-color: burlywood;
+
+}
+$primary-color: #20c997;
+$secondary-color: #198754;
+$accent-color: #343a40;
+@import "~bootstrap/scss/bootstrap";
+body {
+    font: 1rem/1.5 var(--bs-font-sans-serif);
+}
+a {
+    color: var(--bs-blue);
+}
